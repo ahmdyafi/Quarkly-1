@@ -1208,7 +1208,7 @@ export default (() => {
 						hover-text-decoration-line="underline"
 						white-space="nowrap"
 					>
-						Made on Quarkly
+						Asik maha asikj
 					</Link>
 					{"        "}
 				</StackItem>
